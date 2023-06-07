@@ -20,7 +20,7 @@ install live server extension and open the Html file with extension
   -JavaScript
 ## Authors
 
-  - **Billie Thompson** - Jordan Pufon
+  - **Jordan Pufon** 
 
 ## Acknowledgments
 
